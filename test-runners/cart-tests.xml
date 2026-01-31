@@ -1,0 +1,12 @@
+<suite name="Cart Suite">
+    <test name="Cart Tests">
+        <groups>
+            <run>
+                <include name="cart"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.CartManagement.*"/>
+        </packages>
+    </test>
+</suite>

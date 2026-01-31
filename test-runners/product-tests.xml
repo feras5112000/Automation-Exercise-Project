@@ -1,0 +1,12 @@
+<suite name="Products Suite">
+    <test name="Products Tests">
+        <groups>
+            <run>
+                <include name="products"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.Products.*"/>
+        </packages>
+    </test>
+</suite>

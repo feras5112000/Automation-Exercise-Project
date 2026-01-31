@@ -1,0 +1,12 @@
+<suite name="Authentication Suite">
+    <test name="Authentication Tests">
+        <groups>
+            <run>
+                <include name="authentication"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.Authentication.*"/>
+        </packages>
+    </test>
+</suite>

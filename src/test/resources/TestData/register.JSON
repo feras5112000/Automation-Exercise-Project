@@ -1,0 +1,22 @@
+{
+  "validRegister" : {
+    "signupName": "Jane Smith",
+    "signupEmail": "testData2@test.com",
+    "title": "Mrs",
+    "Name" : "Jane",
+    "Password": "Test@1234",
+    "Day": "10",
+    "Month": "4",
+    "Year": "2000",
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "Company": "TestCompany",
+    "Address1": "123 Test St",
+    "Address2": "Suite 100",
+    "Country": "United States",
+    "State": "California",
+    "City": "Los Angeles",
+    "Zipcode": "90001",
+    "MobileNumber": "01234567890"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "product_1":
+  {
+    "productID": "1",
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+  },
+  "product_2":
+  {
+    "productID": "2",
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "quantity": "1",
+    "total": "Rs. 400"
+  },
+  "verifyQuantity":
+  {
+    "productID": "5",
+    "quantity" : "4"
+  },
+  "recommendedItems":
+  {
+    "productID": "4",
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "quantity": "1",
+    "total": "Rs. 1500"
+  }
+}

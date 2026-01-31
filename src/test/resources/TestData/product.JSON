@@ -1,0 +1,23 @@
+{
+  "womenCat": {
+    "productNameForSearch": "Top",
+    "category": "Women",
+    "subCategory": "Dress"
+  },
+  "menCat": {
+    "category": "Men",
+    "subCategory": "Jeans"
+  },
+  "brand": {
+    "brandName1": "Polo",
+    "brandName2": "H&M"
+  },
+  "review": {
+    "reviewName": "John Doe",
+    "reviewEmail": "testData@gmail.com",
+    "reviewMessage": "Love this top! The material is soft and breathable."
+  },
+  "validProductSearch": {
+    "productNameForSearch": "Jeans"
+  }
+}

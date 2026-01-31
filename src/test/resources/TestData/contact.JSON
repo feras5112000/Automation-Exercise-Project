@@ -1,0 +1,9 @@
+{
+  "validContactData": {
+    "contactName": "John",
+    "contactEmail": "testData3@test.com",
+    "contactSubject": "Inquiry about services",
+    "message": "Hello,\nThis is a test message sent for automation testing purposes.\nPlease ignore this message.\nThank you.",
+    "filePath": "C:\\feras\\ContactTestFile.txt"
+  }
+}

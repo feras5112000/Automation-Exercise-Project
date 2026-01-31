@@ -1,0 +1,12 @@
+<suite name="Navigation Suite">
+    <test name="Navigation Tests">
+        <groups>
+            <run>
+                <include name="navigation"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.NavigationAndContact.*"/>
+        </packages>
+    </test>
+</suite>

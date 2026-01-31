@@ -1,0 +1,20 @@
+
+<suite name="Regression Suite">
+    <test name="Full Regression Tests">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.Authentication.*"/>
+            <package name="tests.ui.Products.*"/>
+            <package name="tests.ui.CartManagement.*"/>
+            <package name="tests.ui.CheckoutAndOrders.*"/>
+            <package name="tests.ui.NavigationAndContact.*"/>
+            <package name="tests.ui.Subscription.*"/>
+            <package name="tests.ui.UserInterface.*"/>
+        </packages>
+    </test>
+
+</suite>

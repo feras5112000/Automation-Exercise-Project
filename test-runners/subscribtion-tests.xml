@@ -1,0 +1,12 @@
+<suite name="Subscription Suite">
+    <test name="Subscription Tests">
+        <groups>
+            <run>
+                <include name="subscription"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.Subscription.*"/>
+        </packages>
+    </test>
+</suite>

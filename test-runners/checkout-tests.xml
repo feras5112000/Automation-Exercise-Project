@@ -1,0 +1,12 @@
+<suite name="Checkout Suite">
+    <test name="Checkout Tests">
+        <groups>
+            <run>
+                <include name="checkout"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.ui.CheckoutAndOrders.*"/>
+        </packages>
+    </test>
+</suite>
