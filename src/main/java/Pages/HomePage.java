@@ -140,6 +140,4 @@ public class HomePage extends BasePage<HomePage>{
                 "'Full-Fledged practice website for Automation Engineers' text is not visible");
         return this;
     }
-
-
 }
